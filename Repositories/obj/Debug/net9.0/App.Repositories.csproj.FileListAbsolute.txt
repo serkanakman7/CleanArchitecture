@@ -12,3 +12,4 @@ C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\Rep
 C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\Repositories\obj\Debug\net9.0\App.Repositories.pdb
 C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\Repositories\obj\Debug\net9.0\App.Repositories.genruntimeconfig.cache
 C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\Repositories\obj\Debug\net9.0\ref\App.Repositories.dll
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\Repositories\obj\Debug\net9.0\App.Repositories.sourcelink.json

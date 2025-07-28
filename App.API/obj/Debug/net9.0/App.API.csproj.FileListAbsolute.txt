@@ -177,3 +177,4 @@ C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\App
 C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\App.API\bin\Debug\net9.0\FluentValidation.dll
 C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\App.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
 C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\App.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\App.API\obj\Debug\net9.0\App.API.sourcelink.json

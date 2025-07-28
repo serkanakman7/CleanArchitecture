@@ -1,0 +1,12 @@
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\Core\App.Domain\bin\Debug\net9.0\App.Domain.deps.json
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\Core\App.Domain\bin\Debug\net9.0\App.Domain.dll
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\Core\App.Domain\bin\Debug\net9.0\App.Domain.pdb
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\Core\App.Domain\obj\Debug\net9.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\Core\App.Domain\obj\Debug\net9.0\App.Domain.AssemblyInfoInputs.cache
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\Core\App.Domain\obj\Debug\net9.0\App.Domain.AssemblyInfo.cs
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\Core\App.Domain\obj\Debug\net9.0\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\Core\App.Domain\obj\Debug\net9.0\App.Domain.sourcelink.json
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\Core\App.Domain\obj\Debug\net9.0\App.Domain.dll
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\Core\App.Domain\obj\Debug\net9.0\refint\App.Domain.dll
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\Core\App.Domain\obj\Debug\net9.0\App.Domain.pdb
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\Core\App.Domain\obj\Debug\net9.0\ref\App.Domain.dll

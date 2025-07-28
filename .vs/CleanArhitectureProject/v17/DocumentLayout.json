@@ -3,56 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\services\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|solutionrelative:services\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\api\\app.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|solutionrelative:cleanarchitecture\\src\\api\\app.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E093EC6A-2E60-458A-B7CA-F0C984BE646A}|Repositories\\App.Repositories.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\repositories\\extensions\\repositoryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E093EC6A-2E60-458A-B7CA-F0C984BE646A}|Repositories\\App.Repositories.csproj|solutionrelative:repositories\\extensions\\repositoryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DEF9A7D-B3A1-48BB-9346-8847396F65F4}|CleanArchitecture\\src\\Infrastructure\\App.Persistence\\App.Persistence.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\infrastructure\\app.persistence\\extensions\\persistenceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEF9A7D-B3A1-48BB-9346-8847396F65F4}|CleanArchitecture\\src\\Infrastructure\\App.Persistence\\App.Persistence.csproj|solutionrelative:cleanarchitecture\\src\\infrastructure\\app.persistence\\extensions\\persistenceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E093EC6A-2E60-458A-B7CA-F0C984BE646A}|Repositories\\App.Repositories.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\repositories\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E093EC6A-2E60-458A-B7CA-F0C984BE646A}|Repositories\\App.Repositories.csproj|solutionrelative:repositories\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6349355B-15D9-42B4-9AC0-4E023B3E7339}|CleanArchitecture\\src\\Infrastructure\\App.Caching\\App.Caching.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\infrastructure\\app.caching\\memcacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6349355B-15D9-42B4-9AC0-4E023B3E7339}|CleanArchitecture\\src\\Infrastructure\\App.Caching\\App.Caching.csproj|solutionrelative:cleanarchitecture\\src\\infrastructure\\app.caching\\memcacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\services\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|solutionrelative:services\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00567180-A07A-4531-9A1F-C9FAE7D20208}|CleanArchitecture\\src\\Core\\App.Application\\App.Application.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\core\\app.application\\features\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00567180-A07A-4531-9A1F-C9FAE7D20208}|CleanArchitecture\\src\\Core\\App.Application\\App.Application.csproj|solutionrelative:cleanarchitecture\\src\\core\\app.application\\features\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\services\\filters\\notfoundfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|solutionrelative:services\\filters\\notfoundfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\api\\app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|solutionrelative:cleanarchitecture\\src\\api\\app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BAA9F52-A384-40F9-B5A3-F20489B1A922}|App.API\\App.API.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\app.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BAA9F52-A384-40F9-B5A3-F20489B1A922}|App.API\\App.API.csproj|solutionrelative:app.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\api\\app.api\\extensions\\cachingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|solutionrelative:cleanarchitecture\\src\\api\\app.api\\extensions\\cachingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E093EC6A-2E60-458A-B7CA-F0C984BE646A}|Repositories\\App.Repositories.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\repositories\\interceptors\\auditdbcontextinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E093EC6A-2E60-458A-B7CA-F0C984BE646A}|Repositories\\App.Repositories.csproj|solutionrelative:repositories\\interceptors\\auditdbcontextinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6349355B-15D9-42B4-9AC0-4E023B3E7339}|CleanArchitecture\\src\\Infrastructure\\App.Caching\\App.Caching.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\infrastructure\\app.caching\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6349355B-15D9-42B4-9AC0-4E023B3E7339}|CleanArchitecture\\src\\Infrastructure\\App.Caching\\App.Caching.csproj|solutionrelative:cleanarchitecture\\src\\infrastructure\\app.caching\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\services\\categories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|solutionrelative:services\\categories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\core\\app.domain\\options\\enyimmemcachedoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|solutionrelative:cleanarchitecture\\src\\core\\app.domain\\options\\enyimmemcachedoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\services\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|solutionrelative:services\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C78AB33-52E4-4462-B1BE-C4E4411CD38F}|CleanArchitecture\\src\\Infrastructure\\App.Bus\\App.Bus.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\infrastructure\\app.bus\\busextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C78AB33-52E4-4462-B1BE-C4E4411CD38F}|CleanArchitecture\\src\\Infrastructure\\App.Bus\\App.Bus.csproj|solutionrelative:cleanarchitecture\\src\\infrastructure\\app.bus\\busextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E093EC6A-2E60-458A-B7CA-F0C984BE646A}|Repositories\\App.Repositories.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\repositories\\iauditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E093EC6A-2E60-458A-B7CA-F0C984BE646A}|Repositories\\App.Repositories.csproj|solutionrelative:repositories\\iauditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\core\\app.domain\\const\\servicebusconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|solutionrelative:cleanarchitecture\\src\\core\\app.domain\\const\\servicebusconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\services\\products\\update\\updateproductrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|solutionrelative:services\\products\\update\\updateproductrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C78AB33-52E4-4462-B1BE-C4E4411CD38F}|CleanArchitecture\\src\\Infrastructure\\App.Bus\\App.Bus.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\infrastructure\\app.bus\\consumers\\productaddedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C78AB33-52E4-4462-B1BE-C4E4411CD38F}|CleanArchitecture\\src\\Infrastructure\\App.Bus\\App.Bus.csproj|solutionrelative:cleanarchitecture\\src\\infrastructure\\app.bus\\consumers\\productaddedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\services\\products\\update\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|solutionrelative:services\\products\\update\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C78AB33-52E4-4462-B1BE-C4E4411CD38F}|CleanArchitecture\\src\\Infrastructure\\App.Bus\\App.Bus.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\infrastructure\\app.bus\\servicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C78AB33-52E4-4462-B1BE-C4E4411CD38F}|CleanArchitecture\\src\\Infrastructure\\App.Bus\\App.Bus.csproj|solutionrelative:cleanarchitecture\\src\\infrastructure\\app.bus\\servicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\services\\products\\create\\createproductrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4BE6BD-74E3-4733-9EA4-60AD12043EEB}|Services\\App.Services.csproj|solutionrelative:services\\products\\create\\createproductrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\core\\app.domain\\events\\ieventormessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|solutionrelative:cleanarchitecture\\src\\core\\app.domain\\events\\ieventormessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00567180-A07A-4531-9A1F-C9FAE7D20208}|CleanArchitecture\\src\\Core\\App.Application\\App.Application.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\core\\app.application\\contracts\\servicebus\\iservicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00567180-A07A-4531-9A1F-C9FAE7D20208}|CleanArchitecture\\src\\Core\\App.Application\\App.Application.csproj|solutionrelative:cleanarchitecture\\src\\core\\app.application\\contracts\\servicebus\\iservicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\core\\app.domain\\events\\productaddedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|solutionrelative:cleanarchitecture\\src\\core\\app.domain\\events\\productaddedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\core\\app.domain\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|solutionrelative:cleanarchitecture\\src\\core\\app.domain\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\core\\app.domain\\events\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|solutionrelative:cleanarchitecture\\src\\core\\app.domain\\events\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\core\\app.domain\\options\\servicebusoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32592DA0-A1B9-4C4B-930B-537139F28061}|CleanArchitecture\\src\\Core\\App.Domain\\App.Domain.csproj|solutionrelative:cleanarchitecture\\src\\core\\app.domain\\options\\servicebusoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\api\\app.api\\extensions\\configurepipelineextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|solutionrelative:cleanarchitecture\\src\\api\\app.api\\extensions\\configurepipelineextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\api\\app.api\\extensions\\controllerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|solutionrelative:cleanarchitecture\\src\\api\\app.api\\extensions\\controllerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\api\\app.api\\extensions\\exceptionhandlerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|solutionrelative:cleanarchitecture\\src\\api\\app.api\\extensions\\exceptionhandlerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00567180-A07A-4531-9A1F-C9FAE7D20208}|CleanArchitecture\\src\\Core\\App.Application\\App.Application.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\core\\app.application\\contracts\\caching\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00567180-A07A-4531-9A1F-C9FAE7D20208}|CleanArchitecture\\src\\Core\\App.Application\\App.Application.csproj|solutionrelative:cleanarchitecture\\src\\core\\app.application\\contracts\\caching\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\api\\app.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|solutionrelative:cleanarchitecture\\src\\api\\app.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\api\\app.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|solutionrelative:cleanarchitecture\\src\\api\\app.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|c:\\users\\serka\\onedrive\\masa\u00FCst\u00FC\\cleanarchitecture\\cleanarhitectureproject\\cleanarchitecture\\src\\api\\app.api\\controllers\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9ACD3-4524-4FE5-A15C-756EBF73AE41}|CleanArchitecture\\src\\API\\App.API\\App.API.csproj|solutionrelative:cleanarchitecture\\src\\api\\app.api\\controllers\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,168 +122,304 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Products\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\Products\\ProductService.cs",
-              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Products\\ProductService.cs",
-              "RelativeToolTip": "Services\\Products\\ProductService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAApwC4AAAA4AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PersistenceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Infrastructure\\App.Persistence\\Extensions\\PersistenceExtensions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Infrastructure\\App.Persistence\\Extensions\\PersistenceExtensions.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Infrastructure\\App.Persistence\\Extensions\\PersistenceExtensions.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Infrastructure\\App.Persistence\\Extensions\\PersistenceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:45:38.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuditDbContextInterceptor.cs",
-              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Repositories\\Interceptors\\AuditDbContextInterceptor.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interceptors\\AuditDbContextInterceptor.cs",
-              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Repositories\\Interceptors\\AuditDbContextInterceptor.cs",
-              "RelativeToolTip": "Repositories\\Interceptors\\AuditDbContextInterceptor.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:05:36.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Categories\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Services\\Categories\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Categories\\CategoryService.cs",
-              "RelativeToolTip": "Services\\Categories\\CategoryService.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T10:48:05.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T20:01:55.644Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Products\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Services\\Products\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Products\\ProductDto.cs",
-              "RelativeToolTip": "Services\\Products\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Application\\Features\\Products\\ProductService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Core\\App.Application\\Features\\Products\\ProductService.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Application\\Features\\Products\\ProductService.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Core\\App.Application\\Features\\Products\\ProductService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T12:48:24.665Z",
+              "WhenOpened": "2025-07-27T11:23:49.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\API\\App.API\\Program.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\API\\App.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:18:52.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CachingExtension.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Extensions\\CachingExtension.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\API\\App.API\\Extensions\\CachingExtension.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Extensions\\CachingExtension.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\API\\App.API\\Extensions\\CachingExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T17:23:10.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Infrastructure\\App.Caching\\MemCacheService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Infrastructure\\App.Caching\\MemCacheService.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Infrastructure\\App.Caching\\MemCacheService.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Infrastructure\\App.Caching\\MemCacheService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T13:53:16.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Infrastructure\\App.Caching\\CacheService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Infrastructure\\App.Caching\\CacheService.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Infrastructure\\App.Caching\\CacheService.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Infrastructure\\App.Caching\\CacheService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T13:56:22.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnyimMemcachedOption.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Options\\EnyimMemcachedOption.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Core\\App.Domain\\Options\\EnyimMemcachedOption.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Options\\EnyimMemcachedOption.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Core\\App.Domain\\Options\\EnyimMemcachedOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T13:49:48.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\API\\App.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\appsettings.json",
+              "RelativeToolTip": "CleanArchitecture\\src\\API\\App.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T14:24:22.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Extensions\\ServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Services\\Extensions\\ServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Extensions\\ServiceExtensions.cs",
-              "RelativeToolTip": "Services\\Extensions\\ServiceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Title": "BusExtension.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Infrastructure\\App.Bus\\BusExtension.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Infrastructure\\App.Bus\\BusExtension.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Infrastructure\\App.Bus\\BusExtension.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Infrastructure\\App.Bus\\BusExtension.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T12:12:27.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RepositoryExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Repositories\\Extensions\\RepositoryExtensions.cs",
-              "RelativeDocumentMoniker": "Repositories\\Extensions\\RepositoryExtensions.cs",
-              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Repositories\\Extensions\\RepositoryExtensions.cs",
-              "RelativeToolTip": "Repositories\\Extensions\\RepositoryExtensions.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwCAAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:41:06.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\App.API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "App.API\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\App.API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "App.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAUwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T13:02:40.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Repositories\\Products\\Product.cs",
-              "RelativeDocumentMoniker": "Repositories\\Products\\Product.cs",
-              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Repositories\\Products\\Product.cs",
-              "RelativeToolTip": "Repositories\\Products\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T12:16:51.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotFoundFilter.cs",
-              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Filters\\NotFoundFilter.cs",
-              "RelativeDocumentMoniker": "Services\\Filters\\NotFoundFilter.cs",
-              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Filters\\NotFoundFilter.cs",
-              "RelativeToolTip": "Services\\Filters\\NotFoundFilter.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T12:56:16.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IAuditEntity.cs",
-              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Repositories\\IAuditEntity.cs",
-              "RelativeDocumentMoniker": "Repositories\\IAuditEntity.cs",
-              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Repositories\\IAuditEntity.cs",
-              "RelativeToolTip": "Repositories\\IAuditEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:16:32.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UpdateProductRequest.cs",
-              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Products\\Update\\UpdateProductRequest.cs",
-              "RelativeDocumentMoniker": "Services\\Products\\Update\\UpdateProductRequest.cs",
-              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Products\\Update\\UpdateProductRequest.cs",
-              "RelativeToolTip": "Services\\Products\\Update\\UpdateProductRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T12:47:56.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateProductRequestValidator.cs",
-              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Products\\Update\\UpdateProductRequestValidator.cs",
-              "RelativeDocumentMoniker": "Services\\Products\\Update\\UpdateProductRequestValidator.cs",
-              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Products\\Update\\UpdateProductRequestValidator.cs",
-              "RelativeToolTip": "Services\\Products\\Update\\UpdateProductRequestValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T12:47:00.894Z"
+              "WhenOpened": "2025-07-27T10:20:19.174Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "CreateProductRequestValidator.cs",
-              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Products\\Create\\CreateProductRequestValidator.cs",
-              "RelativeDocumentMoniker": "Services\\Products\\Create\\CreateProductRequestValidator.cs",
-              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\Services\\Products\\Create\\CreateProductRequestValidator.cs",
-              "RelativeToolTip": "Services\\Products\\Create\\CreateProductRequestValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABXAAAAAAAAAA==",
+              "Title": "IEventOrMessage.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Events\\IEventOrMessage.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Core\\App.Domain\\Events\\IEventOrMessage.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Events\\IEventOrMessage.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Core\\App.Domain\\Events\\IEventOrMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T12:44:27.071Z"
+              "WhenOpened": "2025-07-27T11:30:32.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductAddedEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Infrastructure\\App.Bus\\Consumers\\ProductAddedEventConsumer.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Infrastructure\\App.Bus\\Consumers\\ProductAddedEventConsumer.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Infrastructure\\App.Bus\\Consumers\\ProductAddedEventConsumer.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Infrastructure\\App.Bus\\Consumers\\ProductAddedEventConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:39:57.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceBusConst.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Const\\ServiceBusConst.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Core\\App.Domain\\Const\\ServiceBusConst.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Const\\ServiceBusConst.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Core\\App.Domain\\Const\\ServiceBusConst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:42:19.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IServiceBus.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Application\\Contracts\\ServiceBus\\IServiceBus.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Core\\App.Application\\Contracts\\ServiceBus\\IServiceBus.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Application\\Contracts\\ServiceBus\\IServiceBus.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Core\\App.Application\\Contracts\\ServiceBus\\IServiceBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:41:07.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceBus.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Infrastructure\\App.Bus\\ServiceBus.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Infrastructure\\App.Bus\\ServiceBus.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Infrastructure\\App.Bus\\ServiceBus.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Infrastructure\\App.Bus\\ServiceBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:03:39.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductAddedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Events\\ProductAddedEvent.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Core\\App.Domain\\Events\\ProductAddedEvent.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Events\\ProductAddedEvent.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Core\\App.Domain\\Events\\ProductAddedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:47:11.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEvent.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Events\\IEvent.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Core\\App.Domain\\Events\\IEvent.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Events\\IEvent.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Core\\App.Domain\\Events\\IEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:08:45.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMessage.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Events\\IMessage.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Core\\App.Domain\\Events\\IMessage.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Events\\IMessage.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Core\\App.Domain\\Events\\IMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:06:09.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceBusOption.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Options\\ServiceBusOption.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Core\\App.Domain\\Options\\ServiceBusOption.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Domain\\Options\\ServiceBusOption.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Core\\App.Domain\\Options\\ServiceBusOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:55:35.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConfigurePipelineExtension.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Extensions\\ConfigurePipelineExtension.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\API\\App.API\\Extensions\\ConfigurePipelineExtension.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Extensions\\ConfigurePipelineExtension.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\API\\App.API\\Extensions\\ConfigurePipelineExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T17:29:08.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ControllerExtension.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Extensions\\ControllerExtension.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\API\\App.API\\Extensions\\ControllerExtension.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Extensions\\ControllerExtension.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\API\\App.API\\Extensions\\ControllerExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T17:26:43.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExceptionHandlerExtension.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Extensions\\ExceptionHandlerExtension.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\API\\App.API\\Extensions\\ExceptionHandlerExtension.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Extensions\\ExceptionHandlerExtension.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\API\\App.API\\Extensions\\ExceptionHandlerExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T17:20:21.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Application\\Contracts\\Caching\\ICacheService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\Core\\App.Application\\Contracts\\Caching\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\Core\\App.Application\\Contracts\\Caching\\ICacheService.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\Core\\App.Application\\Contracts\\Caching\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:08:52.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\API\\App.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\API\\App.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:27:43.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Controllers\\CustomBaseController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\API\\App.API\\Controllers\\CustomBaseController.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Controllers\\CustomBaseController.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\API\\App.API\\Controllers\\CustomBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:26:36.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\src\\API\\App.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\serka\\OneDrive\\Masa\u00FCst\u00FC\\CleanArchitecture\\CleanArhitectureProject\\CleanArchitecture\\src\\API\\App.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CleanArchitecture\\src\\API\\App.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:26:30.676Z"
             }
           ]
         }
