@@ -4,6 +4,7 @@ using App.Application.Features.Products.Create;
 using App.Application.Features.Products.Update;
 using App.Application.Features.Products.UpdateStock;
 using App.Domain.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace App.API.Controllers
@@ -18,6 +19,7 @@ namespace App.API.Controllers
         }
 
         [HttpGet]
+        [Authorize(AuthenticationSchemes = "Bearer")]
         public async Task<IActionResult> GetAll()
         {
             return CreateActionResult(await _productService.GetAllListAsync());

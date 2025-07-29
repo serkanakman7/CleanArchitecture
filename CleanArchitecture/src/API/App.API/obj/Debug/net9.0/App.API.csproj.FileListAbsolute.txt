@@ -195,3 +195,4 @@ C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\Cle
 C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\API\App.API\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
 C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\API\App.API\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\API\App.API\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\serka\OneDrive\Masaüstü\CleanArchitecture\CleanArhitectureProject\CleanArchitecture\src\API\App.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
